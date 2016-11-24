@@ -179,6 +179,7 @@ return [
         Hifone\Providers\EventServiceProvider::class,
         Hifone\Providers\RouteServiceProvider::class,
         Hifone\Providers\ConsoleServiceProvider::class,
+        Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
     ],
 
     /*
